@@ -1,2 +1,2 @@
 # test
-A test repo by sdumka@
+A repo by sdumka@ for testing
